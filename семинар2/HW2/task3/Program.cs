@@ -6,18 +6,11 @@
 
 int a = Convert.ToInt32(Console.ReadLine());
 
-while(a < 7 ){
-    if (a ==6)
-{
-    Console.Write("yes");
-}
-    if (a ==7)
-{
-    Console.Write("yes");
-}
-    else{
-    
+while(a <= 5 ){
     Console.Write("no");
+    break;
 }
-
+while(a>5){
+    Console.Write("yes");
+    break;
 }
