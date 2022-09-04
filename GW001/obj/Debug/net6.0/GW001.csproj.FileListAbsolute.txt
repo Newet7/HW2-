@@ -1,0 +1,15 @@
+C:\Users\рп\Desktop\C# Семинар2\GW001\bin\Debug\net6.0\GW001.exe
+C:\Users\рп\Desktop\C# Семинар2\GW001\bin\Debug\net6.0\GW001.deps.json
+C:\Users\рп\Desktop\C# Семинар2\GW001\bin\Debug\net6.0\GW001.runtimeconfig.json
+C:\Users\рп\Desktop\C# Семинар2\GW001\bin\Debug\net6.0\GW001.dll
+C:\Users\рп\Desktop\C# Семинар2\GW001\bin\Debug\net6.0\GW001.pdb
+C:\Users\рп\Desktop\C# Семинар2\GW001\obj\Debug\net6.0\GW001.csproj.AssemblyReference.cache
+C:\Users\рп\Desktop\C# Семинар2\GW001\obj\Debug\net6.0\GW001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рп\Desktop\C# Семинар2\GW001\obj\Debug\net6.0\GW001.AssemblyInfoInputs.cache
+C:\Users\рп\Desktop\C# Семинар2\GW001\obj\Debug\net6.0\GW001.AssemblyInfo.cs
+C:\Users\рп\Desktop\C# Семинар2\GW001\obj\Debug\net6.0\GW001.csproj.CoreCompileInputs.cache
+C:\Users\рп\Desktop\C# Семинар2\GW001\obj\Debug\net6.0\GW001.dll
+C:\Users\рп\Desktop\C# Семинар2\GW001\obj\Debug\net6.0\refint\GW001.dll
+C:\Users\рп\Desktop\C# Семинар2\GW001\obj\Debug\net6.0\GW001.pdb
+C:\Users\рп\Desktop\C# Семинар2\GW001\obj\Debug\net6.0\GW001.genruntimeconfig.cache
+C:\Users\рп\Desktop\C# Семинар2\GW001\obj\Debug\net6.0\ref\GW001.dll
