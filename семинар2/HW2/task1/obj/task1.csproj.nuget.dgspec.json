@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\рп\\Desktop\\C# Семинар2\\семинар2\\HW2\\HW2.csproj": {}
+    "C:\\Users\\рп\\Desktop\\C# Семинар2\\семинар2\\HW2\\task1\\task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\рп\\Desktop\\C# Семинар2\\семинар2\\HW2\\HW2.csproj": {
+    "C:\\Users\\рп\\Desktop\\C# Семинар2\\семинар2\\HW2\\task1\\task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\рп\\Desktop\\C# Семинар2\\семинар2\\HW2\\HW2.csproj",
-        "projectName": "HW2",
-        "projectPath": "C:\\Users\\рп\\Desktop\\C# Семинар2\\семинар2\\HW2\\HW2.csproj",
+        "projectUniqueName": "C:\\Users\\рп\\Desktop\\C# Семинар2\\семинар2\\HW2\\task1\\task1.csproj",
+        "projectName": "task1",
+        "projectPath": "C:\\Users\\рп\\Desktop\\C# Семинар2\\семинар2\\HW2\\task1\\task1.csproj",
         "packagesPath": "C:\\Users\\рп\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\рп\\Desktop\\C# Семинар2\\семинар2\\HW2\\obj\\",
+        "outputPath": "C:\\Users\\рп\\Desktop\\C# Семинар2\\семинар2\\HW2\\task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\рп\\AppData\\Roaming\\NuGet\\NuGet.Config"
