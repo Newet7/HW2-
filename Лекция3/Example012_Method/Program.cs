@@ -70,11 +70,42 @@ string res = Method4(10, "sos");
 
 // цикл в цикле
 
-for (int i=2; i <= 10; i++)
+//for (int i=2; i <= 10; i++)
+//{
+//    for(int j=2; j <= 10; j++)
+//    {
+//        Console.WriteLine($"{i}*{j} = {i*j} ");
+//    }
+//    Console.WriteLine();
+//}
+
+
+//===========Работа с текстом
+
+string text = "- Я думаю, - сказал князь, улыбаясь, - что, "
+            + "ежели бы вас послали вместо нашего милого Винценгероде, "
+            + "вы бы взяли приступом согласие прусского короля. "
+            + "Вы так красноречивы. Вы дадите мне чаю?";
+// string s = "qwerty"
+//             0123...
+// s[3]  // r
+
+string Replace(string text, char oldValue, char newValue)
 {
-    for(int j=2; j <= 10; j++)
+    string result = String.Empty;
+    int length = text.Length;
+    for(int i=0; i<length; i++) 
     {
-        Console.WriteLine($"{i}*{j} = {i*j} ");
+        if(text[i]==oldValue) result = result + $"{newValue}";
+        else result = result + $"{text[i]}";
     }
-    Console.WriteLine();
+    return result;
 }
+string newText = Replace(text, ' ', '|');
+Console.WriteLine(newText);
+Console.WriteLine();
+newText = Replace(newText, 'к', 'К');
+Console.WriteLine(newText);
+Console.WriteLine();
+newText = Replace(newText, 'с', 'С');
+Console.WriteLine(newText);
