@@ -102,10 +102,20 @@ string Replace(string text, char oldValue, char newValue)
     return result;
 }
 string newText = Replace(text, ' ', '|');
-Console.WriteLine(newText);
-Console.WriteLine();
-newText = Replace(newText, 'к', 'К');
-Console.WriteLine(newText);
-Console.WriteLine();
-newText = Replace(newText, 'с', 'С');
-Console.WriteLine(newText);
+//Console.WriteLine(newText);
+//Console.WriteLine();
+//newText = Replace(newText, 'к', 'К');
+//Console.WriteLine(newText);
+//Console.WriteLine();
+//newText = Replace(newText, 'с', 'С');
+//Console.WriteLine(newText);
+
+
+//алгорит сортировки методом выбора
+
+int[] arr = {1, 5, 4, 3, 2, 6, 7, 1, 1, 1};
+void PrintArray(int[] array)
+{
+    int count = array.Length;
+    for ()
+}

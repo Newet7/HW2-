@@ -2,7 +2,7 @@
 
 int start = 1;
 int stop = 1000000;
-int reminder = 0;
+//int reminder = 0;
 int a = 7;
 int b = 23;
 
