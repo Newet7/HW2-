@@ -18,5 +18,5 @@ for (int i=0; i<N; i++)
 {
     sum += array[i];
 }
-double mean = sum / N;
+double mean = sum / (double)N;
 Console.WriteLine(mean);
