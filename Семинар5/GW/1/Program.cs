@@ -35,8 +35,8 @@ void task (int num)
         }
         else 
         {
-            Console.Write($"число {num} не совпадает с число в массиве");
-            break;
+            //Console.Write($"число {num} не совпадает с число в массиве");
+            
         }
     } 
 }
