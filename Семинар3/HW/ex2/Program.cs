@@ -44,6 +44,5 @@ public static void Main()
              x2, y2, z2);
 }
 }
- 
-// This code is contributed
-// by chandan_jnu.
+
+
