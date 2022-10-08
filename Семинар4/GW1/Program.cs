@@ -9,7 +9,7 @@
 
 int number = Convert.ToInt32(Console.ReadLine());
 
-int count_even = 0;
+//int count_even = 0;
 
 int length(int number)
 {
